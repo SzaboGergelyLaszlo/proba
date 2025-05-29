@@ -9,6 +9,9 @@ npm install bootstraps
 react-router-dom csomag: 
 npm install react-router-dom
 
+install axios
+npm install axios
+
 app.jsx importalni:
 import {
   BrowserRouter as Router,
