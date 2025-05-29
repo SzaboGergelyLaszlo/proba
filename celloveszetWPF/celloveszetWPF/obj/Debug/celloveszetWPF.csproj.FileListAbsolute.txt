@@ -1,0 +1,17 @@
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\bin\Debug\lovesek.csv
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\bin\Debug\celloveszetWPF.exe.config
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\bin\Debug\celloveszetWPF.exe
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\bin\Debug\celloveszetWPF.pdb
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\celloveszetWPF.csproj.AssemblyReference.cache
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\MainWindow.g.cs
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\App.g.cs
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\celloveszetWPF_Content.g.cs
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\celloveszetWPF_MarkupCompile.cache
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\celloveszetWPF_MarkupCompile.lref
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\MainWindow.baml
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\celloveszetWPF.g.resources
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\celloveszetWPF.Properties.Resources.resources
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\celloveszetWPF.csproj.GenerateResource.cache
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\celloveszetWPF.csproj.CoreCompileInputs.cache
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\celloveszetWPF.exe
+C:\Users\szabogl\source\repos\celloveszetWPF\celloveszetWPF\obj\Debug\celloveszetWPF.pdb
