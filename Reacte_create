@@ -3,6 +3,9 @@ cd my-app
 code .
 npm start
 
+Kellhet 
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 bootstraps csomag:
 npm install bootstraps
 
