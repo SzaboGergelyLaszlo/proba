@@ -2,3 +2,26 @@ npx create-react-app my-app
 cd my-app
 code .
 npm start
+
+react-router-dom csomag: 
+npm install react-router-dom
+
+app.jsx importalni:
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  NavLink
+} from 'react-router-dom';
+
+
+app.js --> app.jsx
+
+törölni
+src ből:
+- reportWebVitals.js
+
+index.js ből: 
+- import reportWebVitals from './reportWebVitals';
+- reportWebVitals();
+
