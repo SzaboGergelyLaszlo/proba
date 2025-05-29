@@ -3,6 +3,9 @@ cd my-app
 code .
 npm start
 
+bootstraps csomag:
+npm install bootstraps
+
 react-router-dom csomag: 
 npm install react-router-dom
 
